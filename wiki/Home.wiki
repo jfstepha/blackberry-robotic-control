@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Starting point of the Wiki
+
+
+= Details =
+
+See the hardware page for information about how to set up the hardware.
