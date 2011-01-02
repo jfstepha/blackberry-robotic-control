@@ -1,0 +1,26 @@
+<loader version="1.0">
+	<application id="RobotBerry">
+		<name >
+			RobotBerry
+		</name>
+		<description >
+			Robot Automation using Blackberry Brains
+		</description>
+		<version >
+			1.0.3
+		</version>
+		<vendor >
+			Jon Stephan
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Jon Stephan
+		</copyright>
+		<fileset>
+			<files>
+				RobotBerry.cod
+			</files>
+		</fileset>
+
+	</application>
+
+</loader>
