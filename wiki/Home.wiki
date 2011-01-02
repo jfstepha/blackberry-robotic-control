@@ -7,4 +7,4 @@ Starting point of the Wiki
 
 = Details =
 
-See the [hardware] page for information about how to set up the hardware.
+See the [Hardware] page for information about how to set up the hardware.
