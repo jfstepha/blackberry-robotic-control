@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: RobotBerry
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 11037
+MIDlet-1: RobotBerry,,
+RIM-COD-Creation-Time: 1293928228
+MIDlet-Jar-URL: RobotBerry.jar
+RIM-COD-URL: RobotBerry.cod
+RIM-COD-SHA1: f9 19 67 ff 56 7d ab 45 49 4c 5f 6b 17 3e 14 27 4b 22 03 f5
+RIM-COD-Size: 5456
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.3
+MIDlet-Name: RobotBerry
+MIDlet-Description: Robot Automation using Blackberry Brains
+MIDlet-Vendor: Jon Stephan
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
